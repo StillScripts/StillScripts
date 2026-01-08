@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StillScripts
-- 👀 I’m a web developer that loves TypeScript and React
-- 🌱 I’m currently learning Rust with the intention of building WASM apps.
-- 💞️ I’m looking to collaborate on building React projects.
+- 👀 I’m a software developer from Australia
+- 🌱 Mainly focused on full-stack TypeScript applications, but I also dabble with Rails, Laravel, and Python for machine learning
+- 💞️ I’m looking to collaborate on building apps which empowerer developers to adapt to the AI revolution
 
 <!---
 StillScripts/StillScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
